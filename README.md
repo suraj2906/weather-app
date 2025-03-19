@@ -29,7 +29,7 @@ A modern weather application built with Next.js that provides current weather in
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/suraj2906/weather-app.git
    cd weather-app
    ```
 
@@ -56,9 +56,6 @@ A modern weather application built with Next.js that provides current weather in
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application
 
-## Project Structure
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
