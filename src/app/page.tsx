@@ -208,7 +208,7 @@ export default function Home() {
               type="text"
               value={location}
               onChange={(e) => setLocation(e.target.value)}
-              placeholder="Enter city, zip code, landmark, etc."
+              placeholder="Enter city or zip code."
               className="flex-grow px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-black"
             />
             <button
